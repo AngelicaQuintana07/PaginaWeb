@@ -1,0 +1,119 @@
+# Translation of No header in Spanish (Spain)
+# This file is distributed under the same license as the No header package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-02 14:41:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: No header\n"
+
+#. Description of the plugin/theme
+msgid "No header – is a great solution for small and medium businesses or eCommerce. Theme comes with the support of WooCommerce Plugin. Template suitable for any kind of Shop. Localization Ready: Arabic, Czech, English, German, Greek. Demo and Documentation http://justpx.com/product/no-header-free/"
+msgstr "No header - es una gran solución para negocios pequeños y medianos o para comercio electrónico. El tema viene con soporte para el plugin WooCommerce. Plantilla adecuada para cualquier tipo de tienda. Listo para localización: Árabe, checo, inglés, alemán, griego. Demo y documentación http://justpx.com/product/no-header-free/"
+
+#. Theme Name of the plugin/theme
+msgid "No header"
+msgstr "No header"
+
+#: single.php:26
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:25
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:24
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: index.php:37
+msgid "Older &raquo;"
+msgstr "Anterior &raquo;"
+
+#: search.php:19
+msgid "Not found."
+msgstr "No encontrado."
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Buscar"
+
+#: index.php:36
+msgid "&laquo; Newer"
+msgstr "&laquo; Más reciente"
+
+#: index.php:24
+msgid "Read more..."
+msgstr "Leer más..."
+
+#: index.php:26
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: functions.php:74
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: functions.php:73
+msgid "Next page"
+msgstr "Próxima página"
+
+#: functions.php:68
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: footer.php:33
+msgid "Theme"
+msgstr "Temas"
+
+#: functions.php:62
+msgid "Page %s"
+msgstr "Página %s"
+
+#. #-#-#-#-#  no-header.pot (No header 1.6.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:33
+msgid "http://justpx.com/"
+msgstr "http://justpx.com/"
+
+#: functions.php:27
+msgid "sidebar-left"
+msgstr "sidebar-left"
+
+#: functions.php:30
+msgid "sidebar-footer1"
+msgstr "sidebar-footer1"
+
+#: functions.php:33
+msgid "sidebar-footer2"
+msgstr "sidebar-footer2"
+
+#: functions.php:36
+msgid "sidebar-footer3"
+msgstr "sidebar-footer3"
+
+#: footer.php:31
+msgid "Powered by"
+msgstr "Creado con"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: 404.php:4
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404"
+
+#. Theme URI of the plugin/theme
+msgid "http://justpx.com/product/no-header-free/"
+msgstr "http://justpx.com/product/no-header-free/"
+
+#. Author of the plugin/theme
+msgid "JustPX"
+msgstr "JustPX"
